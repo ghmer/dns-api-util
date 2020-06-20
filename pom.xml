@@ -5,7 +5,7 @@
     <artifactId>dns-api-util</artifactId>
     <version>0.1-SNAPSHOT</version>
     <name>dns-api-util</name>
-    <description>utility to work with the dns-api of Hetzner</description>
+    <description>utility to work with the Hetzner dns-api</description>
     <url>https://parzival.link</url>
     <dependencies>
         <dependency>
