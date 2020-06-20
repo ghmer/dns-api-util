@@ -1,0 +1,3 @@
+## dns-api-util
+
+Utility to work with the Hetzner dns-api. Information to follow...
